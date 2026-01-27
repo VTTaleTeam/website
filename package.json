@@ -1,0 +1,16 @@
+{
+  "name": "hytale-mod-feedback",
+  "type": "module",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "start": "node dist/server/entry.mjs"
+  },
+  "dependencies": {
+    "@astrojs/node": "^9.5.2",
+    "astro": "^5.16.15",
+    "openai": "^6.16.0"
+  }
+}

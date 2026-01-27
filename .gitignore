@@ -1,0 +1,6 @@
+/.env
+/node_modules/
+/.astro/
+/dist/
+/.idea/
+/package-lock.json
